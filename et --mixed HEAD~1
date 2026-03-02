@@ -1,0 +1,76 @@
+[33mcommit 8ef96d9e2be2d5685582887a5c12bd170dda297c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: hca005 <23070503@vnu.edu.vn>
+Date:   Mon Mar 2 23:18:47 2026 +0700
+
+    week 3
+
+S02/PHP Practice Worksheet/Path01/01_HelloStrings.php
+S02/PHP Practice Worksheet/Path01/04_Truthiness.php
+S02/PHP Practice Worksheet/Path01/06_SentenceBuilder.php
+S02/PHP Practice Worksheet/Path01/07_StrictCheck.php
+S02/PHP Practice Worksheet/Path01/08_LogicGate.php
+S02/PHP Practice Worksheet/Path02/09_GradeBot.php
+S02/PHP Practice Worksheet/Path02/10_DayPlanner.php
+S02/PHP Practice Worksheet/Path02/11_MultiTable.php
+S02/PHP Practice Worksheet/Path02/12_CartTotal.php
+S02/PHP Practice Worksheet/Path02/13_Countdown.php
+S02/PHP Practice Worksheet/Path02/14_EvenFilter.php
+S02/PHP Practice Worksheet/Path02/15_ArrayReserve.php
+S02/PHP Practice Worksheet/Path02/16_FizzBuzz.php
+S02/PHP Practice Worksheet/Path03/17_Greeter.php
+S02/PHP Practice Worksheet/Path03/18_AreaCalc.php
+S02/PHP Practice Worksheet/Path03/19_AdultCheck.php
+S02/PHP Practice Worksheet/Path03/20_SafeDivide.php
+S02/PHP Practice Worksheet/Path03/21_Formatter.php
+S02/PHP Practice Worksheet/Path03/22_PureMath.php
+S02/PHP Practice Worksheet/Path04/23_BMICalculator.php
+S02/PHP Practice Worksheet/Path04/24_StudentList.php
+S02/PHP Practice Worksheet/Path04/25_PrimeSeeker.php
+S02/PHP Practice Worksheet/Path04/26_ScoreBoard.php
+homework_session03_hoangcamanh/advanced_exercises/advanced_exercises_evidences/Screenshot (202).png
+homework_session03_hoangcamanh/advanced_exercises/advanced_exercises_evidences/Screenshot (203).png
+homework_session03_hoangcamanh/advanced_exercises/advanced_exercises_evidences/Screenshot (204).png
+homework_session03_hoangcamanh/advanced_exercises/advanced_exercises_evidences/Screenshot (205).png
+homework_session03_hoangcamanh/advanced_exercises/advanced_exercises_evidences/Screenshot (206).png
+homework_session03_hoangcamanh/advanced_exercises/advanced_exercises_evidences/Screenshot (207).png
+homework_session03_hoangcamanh/advanced_exercises/advanced_exercises_evidences/Screenshot (208).png
+homework_session03_hoangcamanh/advanced_exercises/ex01_file_upload/upload.php
+homework_session03_hoangcamanh/advanced_exercises/ex02_csrf_token/csrf_form.php
+homework_session03_hoangcamanh/advanced_exercises/ex03_server-side_regex/regex_form.php
+homework_session03_hoangcamanh/advanced_exercises/ex04_get_post_toggle/method_toggle.php
+homework_session03_hoangcamanh/advanced_exercises/ex05_error_summary_block/error_summary.php
+homework_session03_hoangcamanh/advanced_exercises/ex06_simple_router/index.php
+homework_session03_hoangcamanh/advanced_exercises/ex06_simple_router/pages/contact.php
+homework_session03_hoangcamanh/advanced_exercises/ex06_simple_router/pages/home.php
+homework_session03_hoangcamanh/core_exercises/core_exercises_evidences/Screenshot (192).png
+homework_session03_hoangcamanh/core_exercises/core_exercises_evidences/Screenshot (193).png
+homework_session03_hoangcamanh/core_exercises/core_exercises_evidences/Screenshot (194).png
+homework_session03_hoangcamanh/core_exercises/core_exercises_evidences/Screenshot (195).png
+homework_session03_hoangcamanh/core_exercises/core_exercises_evidences/Screenshot (196).png
+homework_session03_hoangcamanh/core_exercises/core_exercises_evidences/Screenshot (198).png
+homework_session03_hoangcamanh/core_exercises/core_exercises_evidences/Screenshot (199).png
+homework_session03_hoangcamanh/core_exercises/ex01_contact_form/contact.html
+homework_session03_hoangcamanh/core_exercises/ex01_contact_form/submit.php
+homework_session03_hoangcamanh/core_exercises/ex02_calculator/calculator.php
+homework_session03_hoangcamanh/core_exercises/ex03_login/login.php
+homework_session03_hoangcamanh/core_exercises/ex04_search_query_echo/search.php
+homework_session03_hoangcamanh/core_exercises/ex05_self_processing_contactform/contact_self.php
+homework_session03_hoangcamanh/core_exercises/ex06_validation_ulibilities/test_utils.php
+homework_session03_hoangcamanh/core_exercises/ex06_validation_ulibilities/utils.php
+homework_session03_hoangcamanh/core_exercises/ex07_sticky_forms/sticky.php
+homework_session03_hoangcamanh/core_exercises/ex08_multi_step_registration/step1.php
+homework_session03_hoangcamanh/core_exercises/ex08_multi_step_registration/step2.php
+homework_session03_hoangcamanh/mini_project/desktop.ini
+homework_session03_hoangcamanh/mini_project/evidences/Screenshot (212).png
+homework_session03_hoangcamanh/mini_project/evidences/Screenshot (213).png
+homework_session03_hoangcamanh/mini_project/project/README.md
+homework_session03_hoangcamanh/mini_project/project/assets/css/style.css
+homework_session03_hoangcamanh/mini_project/project/includes/auth.php
+homework_session03_hoangcamanh/mini_project/project/includes/config.php
+homework_session03_hoangcamanh/mini_project/project/includes/functions.php
+homework_session03_hoangcamanh/mini_project/project/includes/users.json
+homework_session03_hoangcamanh/mini_project/project/public/index.php
+homework_session03_hoangcamanh/mini_project/project/public/login.php
+homework_session03_hoangcamanh/mini_project/project/public/logout.php
+homework_session03_hoangcamanh/mini_project/project/public/profile.php
+homework_session03_hoangcamanh/mini_project/project/public/register.php

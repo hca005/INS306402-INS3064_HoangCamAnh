@@ -4,3 +4,4 @@ $city = "Paris";
 
 echo $name . " lives in " . $city . ".";
 ?>
+
